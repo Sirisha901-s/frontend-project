@@ -7,17 +7,17 @@ It allows users to attempt quizzes with multiple-choice questions, navigate usin
 
 🚀 Features
 
-🎯 10 multiple-choice questions
+ 10 multiple-choice questions
 
-⏮️ Previous & ⏭️ Next navigation buttons
+ Previous & ⏭️ Next navigation buttons
 
-⏱️ Countdown timer for the quiz
+ Countdown timer for the quiz
 
-📊 Dynamic progress bar to show attempt status
+ Dynamic progress bar to show attempt status
 
-✅ Instant submission at the end with results
+ Instant submission at the end with results
 
-🖥️ Responsive & attractive UI design
+ Responsive & attractive UI design
 
 
 🛠️ Technologies Used
@@ -45,7 +45,7 @@ https://github.com/Sirisha901-s/frontend-project.git
 2. Open index.html in any modern browser
 
 
-3. Start the quiz and test your knowledge 🎉
+3. Start the quiz and test your knowledge 
 
 
 📷 Screenshots
@@ -60,6 +60,7 @@ https://github.com/Sirisha901-s/frontend-project.git
 <img width="1888" height="940" alt="Screenshot 2025-10-01 213522" src="https://github.com/user-attachments/assets/76080b1e-da10-4d65-b7cb-c5c8c3f14373" />
 
 <img width="1912" height="949" alt="Screenshot 2025-10-01 213705" src="https://github.com/user-attachments/assets/7a5fb412-1089-41c7-8750-0283c6ffd26c" />
+
 
 👩‍💻 Author
 
