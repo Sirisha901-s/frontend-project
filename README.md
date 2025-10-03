@@ -40,7 +40,7 @@ JavaScript (ES6) → Quiz logic, navigation, and score calculation
 
 1. Clone or download the project
 
-
+https://github.com/Sirisha901-s/frontend-project.git
 
 2. Open index.html in any modern browser
 
@@ -63,9 +63,6 @@ JavaScript (ES6) → Quiz logic, navigation, and score calculation
 
 👩‍💻 Author
 
-Developed by [Your Name] 💻✨
+Developed by @Sirisha901-s
 
 
----
-
-👉 Do you want me to also create a fancy README with badges (like GitHub-style shields for HTML, CSS, JS, and demo link)?
