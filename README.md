@@ -53,7 +53,7 @@ https://github.com/Sirisha901-s/frontend-project.git
 
 <img width="1900" height="966" alt="Screenshot 2025-10-01 213419" src="https://github.com/user-attachments/assets/0448a699-198c-4866-924f-bbdbda5d8d02" />
 
-<img width="1622" height="743" alt="Screenshot 2025-10-01 213429" src="https://github.com/user-attachments/assets/2f6e88a2-9f51-456c-bc66-c856be90a62b" />
+<img width="1913" height="957" alt="Screenshot 2025-10-01 215814" src="https://github.com/user-attachments/assets/a36ea9c9-89e1-4bc5-bda1-1628bdc579cf" />
 
 <img width="1900" height="947" alt="Screenshot 2025-10-01 213508" src="https://github.com/user-attachments/assets/58f79b4a-449d-4ce2-829a-84f87c3911c4" />
 
